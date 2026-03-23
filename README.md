@@ -16,8 +16,6 @@ I am an IBBA student at NTHU. I am interested in data, economics, and finance. I
 If you want to talk about economics, share beginner coding tips, or just say hi, please reach out!
 
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  ▪️ ✉️ Email:      [daffaonielda2@gmail.com]                    ║
-║  ▪️ 💼 LinkedIn:   [https://www.linkedin.com/in/daffaonielda/]  ║
-║                                                                  ║
+              ✉️ Email: [daffaonielda2@gmail.com]                   
+    💼 LinkedIn: [https://www.linkedin.com/in/daffaonielda/]                                                                    
 ╚══════════════════════════════════════════════════════════════════╝
