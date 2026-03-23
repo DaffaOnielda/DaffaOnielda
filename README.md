@@ -9,7 +9,7 @@ I am a 3rd year IPMT-IBBA student at NTHU. I am interested in data, economics, a
 
 ### What I am learning
 * **Languages:** Python, R, SQL
-* **Tools:** Pandas, Flask, Lubridate, Tidyverse (dplyr, ggplot2), Flutter, PowerBI
+* **Tools:** Pandas, Flask, Lubridate, Tidyverse (dplyr, ggplot2), Flutter, PowerBI, Microsoft Excel
 * **Topics:** Microeconomics, Macroeconomics, Econometrics, Finance, Data Science
 
 ### Let's Connect
