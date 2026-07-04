@@ -51,6 +51,9 @@ interests = [
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaOnielda&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+# activity graph
+
+[![Daffa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaffaOnielda&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 <p align="center">
