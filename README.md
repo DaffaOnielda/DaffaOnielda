@@ -12,7 +12,6 @@
 
 🎓 IPMT-IBBA @ NTHU  
 📊 data • economics • finance  
-☕ powered by caffeine and questionable debugging decisions
 
 </div>
 
@@ -27,8 +26,6 @@
 </p>
 
 ---
-
-# currently messing with
 
 ```python
 import pandas as pd
