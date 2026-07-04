@@ -27,7 +27,7 @@
 
 ---
 
-# currently messing with
+# Currently Messing with
 
 ```python
 import pandas as pd
@@ -43,13 +43,15 @@ interests = [
 
 ---
 
-## github stats
+## Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DaffaOnielda&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaffaOnielda&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaffaOnielda&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaffaOnielda&theme=tokyonight)
 
-# activity graph
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaffaOnielda&theme=tokyonight)
+
+# Activity Graph
 
 [![Daffa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DaffaOnielda&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
@@ -60,7 +62,7 @@ interests = [
 
 ---
 
-# connect
+# Connect
 
 <p align="center">
   <a href="mailto:daffaonielda2@gmail.com">
