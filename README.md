@@ -63,10 +63,12 @@ interests = [
 
 <p align="center">
   <a href="mailto:daffaonielda2@gmail.com">
-    <img src="https://img.shields.io/badge/email-111827?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-daffaonielda2@gmail.com-111827?style=for-the-badge&logo=gmail">
   </a>
+</p>
 
+<p align="center">
   <a href="https://linkedin.com/in/daffaonielda">
-    <img src="https://img.shields.io/badge/linkedin-111827?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-daffaonielda-111827?style=for-the-badge&logo=linkedin">
   </a>
 </p>
