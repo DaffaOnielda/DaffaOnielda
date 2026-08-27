@@ -9,7 +9,7 @@
 
 <!-- MINI ABOUT -->
 <div align="center">
-A curious business student with a keen interest in data, always eager to explore, organize, and turn it into something insightful and useful for business, economics, and finance. :)
+A curious business student interested in the intersection of data, business, economics, and finance. I enjoy exploring data, making sense of complex information, and turning numbers into insights that can support better decisions. I’m consistently learning new tools, experimenting with different ideas, and looking for opportunities to apply what I learn to real-world problems. Always curious about new domains and excited to see where the next idea takes me. :)
 
 🎓 IPMT-IBBA @ National Tsing Hua University  
 📊 data • economics • finance  
@@ -19,6 +19,8 @@ A curious business student with a keen interest in data, always eager to explore
 ---
 
 <!-- BADGES -->
+<h2 align="center">TECH STACKS </h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r">
