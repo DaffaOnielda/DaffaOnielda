@@ -14,7 +14,6 @@ A curious business student interested in the intersection of data, business, eco
 | <div align="center">🎓 **IPMT-IBBA @ National Tsing Hua University** </div> |
 | :--- |
 | <div align="center">📍 **Hsinchu, Taiwan** </div> |
-| :--- |
 
 
 </div>
