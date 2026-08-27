@@ -9,6 +9,7 @@
 
 <!-- MINI ABOUT -->
 <div align="center">
+A courage business student with a keen interest in data, and is eager to explore, organize, and cultivate them into something insightful and useful for business, economics, and finance sectors :)  
 
 🎓 IPMT-IBBA @ NTHU  
 📊 data • economics • finance  
