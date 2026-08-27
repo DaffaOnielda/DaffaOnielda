@@ -11,11 +11,8 @@
 <div align="center">
 A curious business student interested in the intersection of data, business, economics, and finance. I enjoy exploring data, making sense of complex information, and turning numbers into insights that can support better decisions. I’m consistently learning new tools, experimenting with different ideas, and looking for opportunities to apply what I learn to real-world problems. Always curious about new domains and excited to see where the next idea takes me. :)
 
-<p align="center">
-  <div align="center" style="display: inline-block; border: 1px solid #30363d; border-radius: 8px; padding: 10px 20px; background-color: #0d1117;">
-    🎓 <b>IPMT-IBBA @ National Tsing Hua University</b><br>
-  </div>
-</p>
+| <div align="center">🎓 **IPMT-IBBA @ National Tsing Hua University** </div> |
+| :--- |
 
 </div>
 
