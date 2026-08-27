@@ -65,6 +65,10 @@ interests = [
 
 # Connect
 
+<div align="center">
+
+I am really open to any collaborations, and is always interested in other domains. Let's connect! :D
+
 <p align="center">
   <a href="mailto:daffaonielda2@gmail.com">
     <img src="https://img.shields.io/badge/Email-daffaonielda2@gmail.com-111827?style=for-the-badge&logo=gmail">
