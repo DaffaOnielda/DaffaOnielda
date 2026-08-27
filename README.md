@@ -24,7 +24,7 @@ A courage business student with a keen interest in data, and is eager to explore
   <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r">
   <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql">
   <img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=microsoftpowerbi">
-  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel">
+  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=white">
 </p>
 
 ---
