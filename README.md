@@ -14,7 +14,6 @@ A curious business student interested in the intersection of data, business, eco
 <p align="center">
   <div align="center" style="display: inline-block; border: 1px solid #30363d; border-radius: 8px; padding: 10px 20px; background-color: #0d1117;">
     🎓 <b>IPMT-IBBA @ National Tsing Hua University</b><br>
-    <span style="color: #8b949e; font-size: 13px;">📊 data • economics • finance</span>
   </div>
 </p>
 
