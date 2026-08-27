@@ -22,8 +22,9 @@ A courage business student with a keen interest in data, and is eager to explore
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r">
-  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql">
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql">
   <img src="https://img.shields.io/badge/PowerBI-111827?style=for-the-badge&logo=powerbi">
+  <img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=excel">
 </p>
 
 ---
