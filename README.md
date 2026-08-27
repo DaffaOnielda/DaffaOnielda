@@ -9,9 +9,9 @@
 
 <!-- MINI ABOUT -->
 <div align="center">
-A courage business student with a keen interest in data, and is eager to explore, organize, and cultivate them into something insightful and useful for business, economics, and finance sectors :)  
+A curious business student with a keen interest in data, always eager to explore, organize, and turn it into something insightful and useful for business, economics, and finance. :)
 
-🎓 IPMT-IBBA @ NTHU  
+🎓 IPMT-IBBA @ National Tsing Hua University  
 📊 data • economics • finance  
 
 </div>
@@ -67,7 +67,7 @@ interests = [
 
 <div align="center">
 
-I am really open to any collaborations, and is always interested in other domains. Let's connect! :D
+I’m always open to collaborations and curious to explore ideas across different domains. Let’s connect! :D
 
 <p align="center">
   <a href="mailto:daffaonielda2@gmail.com">
