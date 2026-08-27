@@ -35,11 +35,10 @@ A courage business student with a keen interest in data, and is eager to explore
 import pandas as pd
 
 interests = [
-    "financial analysis",
-    "data visualization",
+    "financial and economic analysis",
+    "data collection, wrangling, analysis, and visualization",
     "econometrics",
-    "forecasting",
-    "tiny projects with unnecessary complexity"
+    "tiny projects"
 ]
 ```
 
