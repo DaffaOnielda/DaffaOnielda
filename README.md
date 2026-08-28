@@ -39,7 +39,7 @@ A curious technology management student interested in the intersection of data, 
 </p>
 
 ---
-<h2 align="center">Currently Messing with </h2>
+<h2 align="center">CURRENTLY MESSING WITH </h2>
 
 ```python
 import pandas as pd
