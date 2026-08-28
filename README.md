@@ -26,6 +26,8 @@ A curious technology management student interested in the intersection of data, 
 <!-- BADGES -->
 <h2 align="center">TECH STACKS </h2>
 
+<div align="center">Tools & languages currently on my daily rotation (actively exploring more :D) </div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r">
