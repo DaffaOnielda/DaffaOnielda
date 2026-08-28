@@ -10,7 +10,7 @@
 <!-- MINI ABOUT -->
 <div align="center">
   
-A curious technology management student interested in the intersection of data, business, economics, and finance. I enjoy exploring data, making sense of complex information, and turning numbers into insights that can support better decisions. I’m consistently learning new tools, experimenting with different ideas, and looking for opportunities to apply what I learn to real-world problems. Always curious about new domains and excited to see where the next idea takes me. :) 
+A curious technology management student interested in the intersection of data, business, economics, and finance. I enjoy exploring data, making sense of coplex information, and turning numbers into insights that can support better decisions. I’m consistently learning new tools, experimenting with different ideas, and looking for opportunities to apply what I learn to real-world problems. Always curious about new domains and excited to see where the next idea takes me. :) 
   
 <br>
 
@@ -40,11 +40,11 @@ A curious technology management student interested in the intersection of data, 
 ```python
 import pandas as pd
 
-interests = [
+main interests = [
     "financial and economic analysis",
-    "data collection, wrangling, analysis, and visualization",
+    "data collection, wrangling, modelling, and visualization",
     "econometrics",
-    "tiny projects"
+    "projects"
 ]
 ```
 
@@ -73,7 +73,7 @@ interests = [
 
 <div align="center">
 
-I’m always open to collaborations and curious to explore ideas across different domains. Let’s connect! :D
+I’m always open to collaborations and excited to dig into ideas across different domains. Let’s connect! :D
 
 <p align="center">
   <a href="mailto:daffaonielda2@gmail.com">
