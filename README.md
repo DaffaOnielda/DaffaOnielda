@@ -10,7 +10,7 @@
 <!-- MINI ABOUT -->
 <div align="center">
   
-A curious technology management student interested in the intersection of data, business, economics, and finance. I enjoy exploring data, making sense of coplex information, and turning numbers into insights that can support better decisions. I’m consistently learning new tools, experimenting with different ideas, and looking for opportunities to apply what I learn to real-world problems. Always curious about new domains and excited to see where the next idea takes me. :) 
+​I look at data, business, and finance, and try to make sense of the chaos. I casually (not everytime obvs) spend my time playing around with data, business, and finance meet. I mostly taking random numbers and turning them into things that hopefully and actually make sense. Always down to learn a new tool, tinker with random ideas, and build stuff for the real world (hopefully helpful). Honestly just following my curiosity wherever it takes me! :) 
   
 <br>
 
