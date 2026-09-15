@@ -10,7 +10,7 @@
 <!-- MINI ABOUT -->
 <div align="center">
   
-​I look at data, business, and finance, and try to make sense of the chaos. I casually (not everytime obvs) spend my time playing around with data, business, and finance meet. I mostly taking random numbers and turning them into things that hopefully and actually make sense. Always down to learn a new tool, tinker with random ideas, and build stuff for the real world (hopefully helpful). Honestly just following my curiosity wherever it takes me! :) 
+​I casually (not everytime obvs) spend my time playing around with data. Mostly around business, economics, and finance. I mostly take random numbers and turning them into things that hopefully and actually make sense. Always down to learn a new tool, tinker with random ideas, and build stuff for the real world (hopefully useful enough). Honestly just following my curiosity wherever it takes me! :) 
   
 <br>
 
